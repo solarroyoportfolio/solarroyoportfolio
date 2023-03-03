@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hola! Soy María Sol Arroyo  👋🏽 👩🏽‍💻
 
-<!--
-**solarroyoportfolio/solarroyoportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrolladora web frontend de **Argentina** 🇦🇷, me gustan mucho los desafíos y aprender de ellos, actualmente estoy especializandome en React y en Python, me encuentro además cursando **testing QA** como nuevo desafío.
 
-Here are some ideas to get you started:
+### Sobre mi ✏️
+En principio comencé estudiando Ingenieria en Computación, durante la pandemia y buscando expandir mis conocimientos y las posibilidades que en ese momento tenía para no dejar de estudiar, comencé a inclinarme por el desarrollo web FrontEnd.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------
+## ✏️ Undefined Academy
+### 💻 Comandos Básicos de Terminal 
+ 
+| Comando | Descripción |
+| ------ | ------ |
+| ```date``` | Muestra la fecha y hora del sistema actual |
+| ```ls``` | Lista los archivos de la carpeta actual o de la ruta dada |
+| ```cd``` | Nos permite navegar entre carpetas |
+| ```mkdir``` | Crea una nueva carpeta dado un nombre para esa carpeta |
+| ```touch``` | Cre un archivo nuevo dada una ruta y/o nombre |
+
+### 💻 Alias Útiles
+- **Alias** `cl` = ```"clear"``` 
+- **Alias** `npms` = ```"npm start"``` 
