@@ -18,5 +18,5 @@ En principio comencé estudiando Ingenieria en Computación, durante la pandemia
 | ```touch``` | Cre un archivo nuevo dada una ruta y/o nombre |
 
 ### 💻 Alias Útiles
-- **Alias** `cl` = ```"clear"``` 
-- **Alias** `npms` = ```"npm start"``` 
+- **Alias** `cl` = ```"clear"``` | Comando para limpiar la consola
+- **Alias** `npms` = ```"npm start"``` | Dar inicio a npm
